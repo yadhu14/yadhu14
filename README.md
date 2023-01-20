@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate with other developers to learn more...
 - 📫 How to reach me yadhukrishnanmanu@gmail.com
-- 
 
 <!---
 yadhu14/yadhu14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
